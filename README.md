@@ -1,5 +1,5 @@
 # Hi, I'm Pavel 👋🏼
-I'm 18. I'm a Python junior programmer. Work experience — 3-4 years.
+I'm 18. I'm a Python junior programmer. Work experience — 3-4 years. <br>
 I write bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚡ Projects:
