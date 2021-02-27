@@ -1,6 +1,6 @@
 # Hi, I'm Pavel 👋🏼
-I'm Russian, I was born in St.Petersburg. I'm 18. I'm a Python junior programmer. Work experience — 3-4 years.
-I write bots and desktop apps, test both apps and websites and make bug-reports.<br>Also I lead [IT-media PTCodding](https://ptcodding.tilda.ws) by myself — don't forget to subscribe and check it 😉
+I'm 18. I'm a Python junior programmer. Work experience — 3-4 years.
+I write bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚡ Projects:
 
