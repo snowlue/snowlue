@@ -17,5 +17,5 @@ I write bots and desktop apps, test both apps and websites and make bug-reports.
 ## ✉ Contacts:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' width='40' height='40'>](https://t.me/pavetranquil)
 &#4448; [<img src='https://user-images.githubusercontent.com/22418658/110246463-bbe3be80-7f78-11eb-9202-5bbf7851f4af.png' alt='vk' width='40' height='40'>](https://vk.me/pavetranquil)
-&#4448; [<img src='https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png' alt='discord' width='40' height='40'>](https://discord.com/users/550713735686127626) <br>
+&#4448; [<img src='https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png' alt='discord' height='40'>](https://discord.com/users/550713735686127626) <br>
 ... and pavetranquil@gmail.com
