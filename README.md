@@ -7,6 +7,7 @@ I write bots and desktop apps, test both apps and websites and make bug-reports.
 ❓&#12288;[Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) <br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) <br>
 😡&#160; [Damn generator](https://github.com/PaveTranquil/damn-generator) <br>
+👀&#160; [VK Concentrate](https://github.com/PaveTranquil/VK-Concentrate) <br>
 🤖&#160; [PTBot (private)](https://github.com/PaveTranquil/ptbot)
 
 ## ⚒ Technologies:
