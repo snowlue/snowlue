@@ -15,8 +15,9 @@ I write bots and desktop apps, test both apps and websites and make bug-reports.
 - SQLite & MySQL: creating, projecting and controling
 - Testing: pytest/unittest, initial and interface testing
 
+
 ## ✉ Contacts:
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' width='40' height='40'>](https://t.me/pavetranquil)
-&#4448; [<img src='https://user-images.githubusercontent.com/22418658/110246463-bbe3be80-7f78-11eb-9202-5bbf7851f4af.png' alt='vk' width='40' height='40'>](https://vk.me/pavetranquil)
-&#4448; [<img src='https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png' alt='discord' height='40'>](https://discord.com/users/550713735686127626) <br>
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' height='50'>](https://t.me/pavetranquil)
+&#4448; [<img src='https://user-images.githubusercontent.com/22418658/110246463-bbe3be80-7f78-11eb-9202-5bbf7851f4af.png' alt='vk' height='50'>](https://vk.me/pavetranquil)
+&#4448; [<img src='https://user-images.githubusercontent.com/22418658/130825863-9783d0f2-64b6-49a0-8c41-c8b88afb4965.png' alt='discord' height='50'>](https://discord.com/users/550713735686127626) <br>
 ... and pavetranquil@gmail.com
