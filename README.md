@@ -4,7 +4,7 @@ I write bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚡ Projects:
 
-❓&#12288;[Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) <br>
+❓&#160; [Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) <br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) <br>
 🎧&#160; [VK-Telegram music streamer](https://github.com/PaveTranquil/music-stream-vk-tg) <br>
 😡&#160; [Damn generator](https://github.com/PaveTranquil/damn-generator) <br>
