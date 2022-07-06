@@ -1,15 +1,16 @@
 # Hi, I'm Pavel 👋🏼
-I'm 19. I'm a Python programmer. Work experience — 3-4 years. <br>
+I'm 19. I'm a Python programmer. Work experience — 4 years. <br>
 I write bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚡ Projects:
 
 ❓&#160; [Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) <br>
+🟩&#160; [Вордли (в процессе разработки)](https://github.com/PaveTranquil/Wordle) <br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) <br>
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/PaveTranquil/vk-tg-music-broadcaster) <br>
 😡&#160; [Damn generator](https://github.com/PaveTranquil/damn-generator) <br>
 👀&#160; [VK Concentrate](https://github.com/PaveTranquil/VK-Concentrate) <br>
-🤖&#160; [PTBot (private)](https://github.com/PaveTranquil/ptbot)
+🤖&#160; [PTBot](https://github.com/PaveTranquil/ptbot)
 
 ## ⚒ Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
