@@ -1,6 +1,6 @@
 # Hi, I'm Pavel 👋🏼
-I'm 19. I'm a Python programmer. Work experience — 4 years. <br>
-I write bots and desktop apps, test both apps and websites and make bug-reports.
+I'm 19. I'm a Python programmer and ITMO student. <br>
+I code bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚡ Projects:
 
