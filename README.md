@@ -4,8 +4,9 @@ I code bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚡ Projects:
 
+🎬&#160; [Поиск фильмов и сериалов ZetSerial (~17000 пользователей)](https://vk.me/zetserial) <br>
 ❓&#160; [Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) <br>
-🟩&#160; [Вордли (в процессе разработки)](https://github.com/PaveTranquil/Wordle) <br>
+🟩&#160; [Вордли (in development)](https://github.com/PaveTranquil/Wordle) <br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) <br>
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/PaveTranquil/vk-tg-music-broadcaster) <br>
 😡&#160; [Damn generator](https://github.com/PaveTranquil/damn-generator) <br>
