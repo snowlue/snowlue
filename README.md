@@ -11,7 +11,7 @@ I code bots and desktop apps, test both apps and websites and make bug-reports.
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/PaveTranquil/vk-tg-music-broadcaster) <br>
 👀&#160; [VK Concentrate](https://github.com/PaveTranquil/VK-Concentrate) <br>
 😡&#160; [Damn generator](https://github.com/PaveTranquil/damn-generator) `archived` <br>
-🤖&#160; [PTBot](https://github.com/PaveTranquil/ptbot) `closed` `not working`
+🤖&#160; [PTBot](https://github.com/PaveTranquil/ptbot) `closed` `not working` `deprecated`
 
 ## ⚒ Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
