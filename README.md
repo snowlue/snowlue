@@ -15,8 +15,8 @@ I code bots and desktop apps, test both apps and websites and make bug-reports.
 
 ## ⚒ Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
-- SQLite & MySQL: creating, projecting and controling
-- Testing: pytest/unittest, initial and interface testing
+- SQLite, MySQL, Redis: creating, projecting and controling
+- Testing: pytest, initial and interface testing, pre-testing, manual testing
 
 ## ✉ Contacts:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' height='50'>](https://t.me/pavetranquil)
