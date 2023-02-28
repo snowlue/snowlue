@@ -18,6 +18,10 @@ I code bots and desktop apps on Python, test both apps and websites and make bug
 - SQLite, MySQL, Redis: creating, projecting and controling
 - Testing: pytest, initial and interface testing, pre-testing, manual testing
 
+## 👨🏻‍💻 About my coding:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ✉ Contacts:
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' height='50'>](https://t.me/pavetranquil)
 &#4448; [<img src='https://user-images.githubusercontent.com/22418658/169043582-878f7c04-1398-4296-9cef-85eb90f77f8f.png' alt='vk' height='50'>](https://vk.me/pavetranquil)
