@@ -29,13 +29,13 @@ I code bots and desktop apps on Python, test both apps and websites and make bug
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-84-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--292.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 352.0 kB Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2023
+> 🏆 57 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
