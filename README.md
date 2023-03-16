@@ -27,7 +27,7 @@ I code bots and desktop apps on Python, test both apps and websites and make bug
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.3%20thousand%20lines%20of%20code-blue)
 
