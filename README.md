@@ -27,7 +27,7 @@ I code bots and desktop apps on Python, test both apps and websites and make bug
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-37-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.5%20thousand%20lines%20of%20code-blue)
 
@@ -35,7 +35,7 @@ I code bots and desktop apps on Python, test both apps and websites and make bug
 
 > 📦 352.0 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2023
+> 🏆 65 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
