@@ -1,12 +1,13 @@
 # Hi, I'm Pavel, I'm 20 👋🏼
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;ITMO+student;Chat-bots+creator;Desktop+apps+developer;VK+%26+Telegram+beta+tester;...+and+singer%2C+announcer+and+podcaster)  
-I code bots and desktop apps on Python, test both apps and websites and make bug-reports.
+I code bots and desktop apps on Python and I test both apps and websites.
 
 ## ⚡ Projects:
 
-🎬&#160; [Поиск фильмов и сериалов ZetSerial (~17000 пользователей)](https://vk.me/zetserial) <br>
-❓&#160; [Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) <br>
+👟&#160; [Online sneakers and clothing shop Record Ekaterinburg](https://t.me/record_ekb_bot) <br>
 🟩&#160; [Вордли](https://github.com/PaveTranquil/Wordle) `in development` <br>
+🎬&#160; [Поиск фильмов и сериалов ZetSerial (~17000 пользователей)](https://vk.me/zetserial) `not working` <br>
+❓&#160; [Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) `archived`<br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) `archived`<br>
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/PaveTranquil/vk-tg-music-broadcaster) <br>
 👀&#160; [VK Concentrate](https://github.com/PaveTranquil/VK-Concentrate) <br>
