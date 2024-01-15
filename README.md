@@ -4,15 +4,15 @@ I code bots and desktop apps on Python and I test both apps and websites.
 
 ## ⚡ Projects:
 
-👟&#160; [Online sneakers and clothing shop Record Ekaterinburg](https://t.me/record_ekb_bot) <br>
+👟&#160; [Online sneakers and clothing shop Record Ekaterinburg (~370 users)](https://t.me/record_ekb_bot) <br>
 🟩&#160; [Вордли](https://github.com/PaveTranquil/Wordle) `in development` <br>
-🎬&#160; [Поиск фильмов и сериалов ZetSerial (~17000 пользователей)](https://vk.me/zetserial) `not working` <br>
+🎬&#160; [Film & series searcher KINOFOX (~1800 users)](https://vk.me/kinofoxy) `not working` <br>
 ❓&#160; [Who Wants To Be A Millionaire](https://github.com/PaveTranquil/WWTBAM) `archived`<br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) `archived`<br>
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/PaveTranquil/vk-tg-music-broadcaster) <br>
 👀&#160; [VK Concentrate](https://github.com/PaveTranquil/VK-Concentrate) <br>
 😡&#160; [Damn generator](https://github.com/PaveTranquil/damn-generator) `archived` <br>
-🤖&#160; [PTBot](https://github.com/PaveTranquil/ptbot) `closed` `not working` `deprecated`
+🤖&#160; [PTBot](https://github.com/PaveTranquil/ptbot) `not working` `deprecated`
 
 ## ⚒ Technologies:
 - Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
