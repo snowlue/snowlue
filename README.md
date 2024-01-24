@@ -27,7 +27,6 @@ I code bots and desktop apps on Python and I test both apps and websites.
 ... and pavetranquil@gmail.com
 
 ## 👨🏻‍💻 About my coding:
-[![wakatime](https://wakatime.com/badge/user/d20d70d1-11d4-4bf2-a1a7-b1883c20e6ac.svg)](https://wakatime.com/@pavetranquil)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-598%20hrs%2043%20mins-blue)
 
