@@ -28,7 +28,7 @@ I code bots and desktop apps on Python and I test both apps and websites.
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-652%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-142.2%20thousand%20lines%20of%20code-blue)
 
@@ -69,11 +69,11 @@ Sunday                   84 commits          ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 18 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   67.53 % 
-YAML                     37 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.47 % 
+Python                   1 hr 19 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   68.02 % 
+YAML                     37 mins             ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   31.98 % 
 
 🐱‍💻 Projects: 
-freelance_bot            1 hr 55 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+freelance_bot            1 hr 57 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 
