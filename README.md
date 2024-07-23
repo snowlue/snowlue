@@ -15,7 +15,7 @@ I code bots and desktop apps on Python and I test both apps and websites.
 🤖&#160; [PTBot](https://github.com/snowlue/ptbot) `not working` `deprecated`
 
 ## ⚒ Technologies:
-- Python: PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
+- Python: aiogram, vkbottle, PyQt5, pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
 - SQLite, MySQL, Redis: creating, projecting and controling
 - Testing: pytest, initial and interface testing, pre-testing, manual testing
 
