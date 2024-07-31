@@ -29,15 +29,13 @@ I code bots and desktop apps on Python and I test both apps and websites.
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 567.5 kB Used in GitHub's Storage 
- > 
-> 🏆 57 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
