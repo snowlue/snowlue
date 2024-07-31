@@ -17,7 +17,7 @@ I code bots and desktop apps on Python and I test both apps and websites.
 🤖&#160; [PTBot](https://github.com/snowlue/ptbot) `not working` `deprecated`
 
 ## ⚒ Technologies:
-- Python: aiogram, vkbottle, PyQt5, cv2, supervision, ultralytics (YOLO), pymorphy, pygame, PIL, requests and APIs (Telegram, Discord, VK), parsers and scrapers
+- Python: aiogram, vkbottle, PyQt5, cv2, supervision, ultralytics (YOLO), selenium, pymorphy, pygame, PIL, requests and APIs
 - PostgreSQL, SQLite, MySQL, Redis: creating, projecting and controling
 - Testing: pytest, initial and interface testing, pre-testing, manual testing
 
