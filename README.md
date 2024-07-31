@@ -4,13 +4,15 @@ I code bots and desktop apps on Python and I test both apps and websites.
 
 ## ⚡ Projects:
 
-👟&#160; [Online sneakers and clothing shop Record Ekaterinburg (~370 users)](https://t.me/record_ekb_bot) <br>
+📈&#160; [Currency growth checker AlertPriceCheck](https://t.me/AlertPriceCheckbot) <br>
+🤖&#160; [The solution of the Greenhouse Environment case for the Robotics Laboratory at the Caucasian Investment Forum](https://github.com/snowlue/cif-robotics-2024) <br>
+👟&#160; [Online sneakers and clothing shop Record Ekaterinburg](https://t.me/record_ekb_bot) <br>
 🟩&#160; [Вордли](https://github.com/snowlue/Wordle) `in development` <br>
 ❓&#160; [Who Wants To Be A Millionaire](https://github.com/snowlue/WWTBAM) `archived`<br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) `archived`<br>
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/snowlue/vk-tg-music-broadcaster) <br>
 👀&#160; [VK Concentrate](https://github.com/snowlue/VK-Concentrate) <br>
-🎬&#160; [Film & series searcher KINOFOX (~1800 users)](https://vk.me/kinofoxy) `not working` <br>
+🎬&#160; [Film & series searcher Zetserial (~1800 users)](https://vk.me/kinofoxy) `not working` <br>
 😡&#160; [Damn generator](https://github.com/snowlue/damn-generator) `archived` <br>
 🤖&#160; [PTBot](https://github.com/snowlue/ptbot) `not working` `deprecated`
 
