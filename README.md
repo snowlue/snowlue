@@ -39,8 +39,6 @@ I code bots and desktop apps on Python and I test both apps and websites.
 
 > 📦 568.6 kB Used in GitHub's Storage 
  > 
-> 🏆 74 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 26 Public Repositories 
