@@ -37,7 +37,7 @@ I code bots and desktop apps on Python and I test both apps and websites.
 
 **🐱 My GitHub Data** 
 
-> 📦 770.7 kB Used in GitHub's Storage 
+> 📦 770.6 kB Used in GitHub's Storage 
  > 
 > 🏆 90 Contributions in the Year 2024
  > 
