@@ -1,6 +1,5 @@
 # Hi, I'm Pavel, I'm 21 👋🏼
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=500&size=22&duration=2000&color=3454D1&multiline=true&repeat=false&width=446&height=197&lines=Python+developer;ITMO+student;VK+ambassador;Chat-bots+creator;Desktop+apps+developer;VK+%26+Telegram+beta+tester;...+and+singer%2C+announcer+and+podcaster)  
-I code bots and desktop apps on Python and test both apps and websites.
 
 ## ⚡ Projects:
 
