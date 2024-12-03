@@ -1,20 +1,19 @@
 # Hi, I'm Pavel, I'm 21 👋🏼
-![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;ITMO+student;Chat-bots+creator;Desktop+apps+developer;VK+%26+Telegram+beta+tester;...+and+singer%2C+announcer+and+podcaster)  
-I code bots and desktop apps on Python and I test both apps and websites.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=500&size=22&duration=2000&color=3454D1&multiline=true&repeat=false&width=446&height=197&lines=Python+developer;ITMO+student;VK+ambassador;Chat-bots+creator;Desktop+apps+developer;VK+%26+Telegram+beta+tester;...+and+singer%2C+announcer+and+podcaster)  
+I code bots and desktop apps on Python and test both apps and websites.
 
 ## ⚡ Projects:
 
-📈&#160; [Currency growth checker AlertPriceCheck](https://t.me/AlertPriceCheckbot) <br>
-🤖&#160; [The solution of the Greenhouse Environment case for the Robotics Laboratory at the Caucasian Investment Forum](https://github.com/snowlue/cif-robotics-2024) <br>
+📱&#160; **[Some of my freelance cases there](https://degendigital.super.site/)**  
+🤖&#160; [The solution of Greenhouse case for the Robotics Laboratory at the Caucasian Investment Forum](https://github.com/snowlue/cif-robotics-2024) <br>
 👟&#160; [Online sneakers and clothing shop Record Ekaterinburg](https://t.me/record_ekb_bot) <br>
 🟩&#160; [Вордли](https://github.com/snowlue/Wordle) `in development` <br>
 ❓&#160; [Who Wants To Be A Millionaire](https://github.com/snowlue/WWTBAM) `archived`<br>
 👻&#160; [Pac-Man](https://github.com/Marklzzz/Pac-man) `archived`<br>
 🎧&#160; [VK-Telegram music broadcaster](https://github.com/snowlue/vk-tg-music-broadcaster) <br>
 👀&#160; [VK Concentrate](https://github.com/snowlue/VK-Concentrate) <br>
-🎬&#160; [Film & series searcher Zetserial (~1800 users)](https://vk.me/kinofoxy) `not working` <br>
 😡&#160; [Damn generator](https://github.com/snowlue/damn-generator) `archived` <br>
-🤖&#160; [PTBot](https://github.com/snowlue/ptbot) `not working` `deprecated`
+🤖&#160; [PTBot](https://github.com/snowlue/ptbot) `deprecated`
 
 ## ⚒ Technologies:
 - Python: aiogram, vkbottle, PyQt5, cv2, supervision, ultralytics (YOLO), selenium, pymorphy, pygame, PIL, requests and APIs
