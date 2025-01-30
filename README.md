@@ -1,4 +1,4 @@
-# Hi, I'm Pavel, I'm 21 👋🏼
+# Hi there, I'm Pavel 👋🏼
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=500&size=22&duration=2000&color=3454D1&multiline=true&repeat=false&width=446&height=169&lines=Python+developer;ITMO+student;VK+ambassador;Chat-bots+creator;Desktop+apps+developer;...+and+singer%2C+announcer+and+podcaster)  
 
 ## ⚡ Projects:
