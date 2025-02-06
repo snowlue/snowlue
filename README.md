@@ -11,32 +11,32 @@
 👀&#160; [VK Concentrate](https://github.com/snowlue/VK-Concentrate)  
 
 ## Technologies
-[![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](https://github.com/snowlue)
-[![pyqt](https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)](https://github.com/snowlue)  
-[![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)](https://github.com/snowlue)
-[![bs4](https://img.shields.io/badge/beautiful_soup-287fb8?style=for-the-badge)](https://github.com/snowlue)  
-[![js](https://img.shields.io/badge/javascript_(a_bit)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://github.com/snowlue)
+[![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](#)
+[![pyqt](https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)](#)  
+[![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)](#)
+[![bs4](https://img.shields.io/badge/beautiful_soup-287fb8?style=for-the-badge)](#)  
+[![js](https://img.shields.io/badge/javascript_(a_bit)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
 
 ### Chatbots
-[![aiogram](https://img.shields.io/badge/aiogram-009bfb?style=for-the-badge&logo=telegram&logoColor=fff)](https://github.com/snowlue)
-[![pyrogram](https://img.shields.io/badge/pyrogram-e65622?style=for-the-badge)](https://github.com/snowlue)
-[![vkbottle](https://img.shields.io/badge/vkbottle-0077ff?style=for-the-badge&logo=vk&logoColor=fff)](https://github.com/snowlue)
+[![aiogram](https://img.shields.io/badge/aiogram-009bfb?style=for-the-badge&logo=telegram&logoColor=fff)](#)
+[![pyrogram](https://img.shields.io/badge/pyrogram-e65622?style=for-the-badge)](#)
+[![vkbottle](https://img.shields.io/badge/vkbottle-0077ff?style=for-the-badge&logo=vk&logoColor=fff)](#)
 
 ### Backend
-[![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=fff)](https://github.com/snowlue)
-[![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=fff)](https://github.com/snowlue)
-[![pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=fff)](https://github.com/snowlue)
+[![fastapi](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=fff)](#)
+[![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=fff)](#)
+[![pydantic](https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=fff)](#)
 
 ### Databases
-[![sqlalchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=fff)](https://github.com/snowlue)
-[![postgres](https://img.shields.io/badge/postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=fff)](https://github.com/snowlue)
-[![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](https://github.com/snowlue)
-[![redis](https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=fff)](https://github.com/snowlue)
+[![sqlalchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=fff)](#)
+[![postgres](https://img.shields.io/badge/postgres-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=fff)](#)
+[![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=fff)](#)
+[![redis](https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=fff)](#)
 
 ### Processing
-[![cv2](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff)](https://github.com/snowlue)
-[![rich](https://img.shields.io/badge/rich-FAE742?style=for-the-badge&logo=rich&logoColor=000)](https://github.com/snowlue)
-[![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=fff)](https://github.com/snowlue)
+[![cv2](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=fff)](#)
+[![rich](https://img.shields.io/badge/rich-FAE742?style=for-the-badge&logo=rich&logoColor=000)](#)
+[![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=fff)](#)
 
 ## Contacts
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' height='50'>](https://t.me/snowlue)
