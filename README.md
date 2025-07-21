@@ -1,5 +1,5 @@
 # Hi there, I'm Pavel 👋🏼 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=500&size=22&duration=2000&color=3454D1&multiline=true&repeat=false&width=446&height=169&lines=Python+developer;ITMO+student;VK+ambassador;Chatbots+creator;Desktop+apps+developer;...+and+singer+and+podcaster)](#)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Parkinsans&weight=500&size=22&duration=2000&color=3454D1&multiline=true&repeat=false&width=446&height=169&lines=VK+Tech+tester;Python+developer;ITMO+student;VK+ambassador;Chatbots+creator;...+and+singer+and+podcaster)](#)  
 
 ## Projects
 📱&#160; **[Some of my freelance cases there](https://degendigital.super.site/)**  
