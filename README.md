@@ -12,7 +12,8 @@
 
 ## Technologies
 [![python](https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)](#)
-[![pyqt](https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)](#)  
+[![pyqt](https://img.shields.io/badge/pyqt-41CD52?style=for-the-badge&logo=qt&logoColor=fff)](#)
+[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=fff)](#)  
 [![selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=fff)](#)
 [![bs4](https://img.shields.io/badge/beautiful_soup-287fb8?style=for-the-badge)](#)  
 [![js](https://img.shields.io/badge/javascript_(a_bit)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](#)
