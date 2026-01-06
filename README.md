@@ -82,9 +82,9 @@ No Activity Tracked This Week
 
 ```text
 Python                   22 repos            ███████████████████░░░░░░   75.86 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
