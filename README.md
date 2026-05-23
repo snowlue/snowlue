@@ -41,10 +41,10 @@
 [![ffmpeg](https://img.shields.io/badge/ffmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=fff)](#)
 
 ## Contacts
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png' alt='telegram' height='50'>](https://t.me/snowlue)
-&#4448; [<img src='https://user-images.githubusercontent.com/22418658/169043582-878f7c04-1398-4296-9cef-85eb90f77f8f.png' alt='vk' height='50'>](https://vk.me/snowlue)
-&#4448; [<img src='https://user-images.githubusercontent.com/22418658/130826704-ea944633-642f-46cc-9236-ffda0ec0ce41.png' alt='discord' height='50'>](https://discord.com/users/550713735686127626)
-&#4448; [<img src='https://github.com/user-attachments/assets/8159be1d-7939-4432-ba94-2da0366d6650' alt='my blog in telegram' height='50'>](https://t.me/snowlues)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' alt='telegram' height='45'>](https://t.me/snowlue)
+&#160; [<img src='https://upload.wikimedia.org/wikipedia/commons/7/77/VKsignature.png' alt='vk' height='45'>](https://vk.me/snowlue)
+&#160; [<img src='https://static.wikia.nocookie.net/logopedia/images/d/dd/Discord_2021_Alt1.svg' alt='discord' height='45'>](https://discord.com/users/550713735686127626)
+&#160; [<img src='https://github.com/user-attachments/assets/8159be1d-7939-4432-ba94-2da0366d6650' alt='my blog in telegram' height='45'>](https://t.me/snowlues)
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
