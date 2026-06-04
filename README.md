@@ -48,36 +48,7 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2014%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                253 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-🌃 Evening                462 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  260 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sunday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   2 hrs 1 min         ████████████████████░░░░░   81.02 % 
-Text                     28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2032%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
