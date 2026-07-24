@@ -48,6 +48,8 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C436%20hrs%2056%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -73,9 +75,9 @@ Sunday                   209 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     3 hrs 49 mins       ███████████████░░░░░░░░░░   60.21 % 
-Python                   1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Other                    56 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Python                   3 hrs 26 mins       █████████████████░░░░░░░░   68.51 % 
+Text                     1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.91 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 **I Mostly Code in Python** 
