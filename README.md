@@ -48,7 +48,7 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C388%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C388%20hrs%2041%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2026%20mins-blue?style=flat)
 
@@ -77,11 +77,11 @@ Sunday                   209 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 hrs 9 mins        ████████████████████████░   94.19 % 
-Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Markdown                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Python                   5 hrs 23 mins       ███████████████████████░░   93.42 % 
+Git Config               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
