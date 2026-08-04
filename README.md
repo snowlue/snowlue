@@ -48,9 +48,9 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2032%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -77,17 +77,33 @@ Sunday                   209 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 mins             ███████████░░░░░░░░░░░░░░   42.47 % 
-Markdown                 14 mins             ███████████░░░░░░░░░░░░░░   42.06 % 
-Text                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Shell                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Python                   15 mins             █████████░░░░░░░░░░░░░░░░   36.52 % 
+Markdown                 14 mins             █████████░░░░░░░░░░░░░░░░   36.17 % 
+Text                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Shell                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (14.02%)
+
+✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
+
+🔤 812,682 Input Tokens, 5,040 Output Tokens
+
+💵 $2.38 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 180 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
