@@ -48,67 +48,6 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C392%20hrs%2018%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                253 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-🌃 Evening                462 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  260 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sunday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   3 hrs 10 mins       █████████████████████░░░░   83.36 % 
-Markdown                 17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 2 hrs 34 mins (67.53%)
-
-✍️ 2,648 lines written by AI, 163 lines written by hand (94.2% AI-written)
-
-🔤 18,185,569 Input Tokens, 201,611 Output Tokens
-
-💵 $57.21 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 48 AI Prompts
-
-Haiku                    1,366 lines         ████████████░░░░░░░░░░░░░   47.76 % 
-Sonnet                   1,103 lines         ██████████░░░░░░░░░░░░░░░   38.57 % 
-GPT                      391 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 94.2% of written lines came from AI
-📚 Verbose Prompter — average 4,458 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 6.14% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
