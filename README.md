@@ -48,9 +48,9 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C402%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2055%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -77,36 +77,36 @@ Sunday                   209 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   9 hrs 48 mins       ██████████████████████░░░   87.22 % 
-Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Python                   12 hrs 28 mins      ██████████████████████░░░   89.32 % 
+Markdown                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (63.91%)
+⏱ AI Coding Time: 9 hrs 32 mins (68.34%)
 
-✍️ 4,719 lines written by AI, 358 lines written by hand (92.95% AI-written)
+✍️ 4,876 lines written by AI, 461 lines written by hand (91.36% AI-written)
 
-🔤 61,752,480 Input Tokens, 500,317 Output Tokens
+🔤 67,012,887 Input Tokens, 597,677 Output Tokens
 
-💵 $128.74 Estimated AI Cost This Week
+💵 $146.70 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 93 AI Prompts
+🧠 9 AI Sessions, 114 AI Prompts
 
-Sonnet                   4,159 lines         ██████████████████░░░░░░░   70.30 % 
-Haiku                    1,366 lines         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-GPT                      391 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Sonnet                   4,325 lines         ██████████████████░░░░░░░   71.11 % 
+Haiku                    1,366 lines         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+GPT                      391 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.95% of written lines came from AI
-📚 Verbose Prompter — average 5,907 characters per prompt
+🤖 AI-Driven — 91.36% of written lines came from AI
+📚 Verbose Prompter — average 9,139 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 15.05% of changed lines were hand-edited
+🚀 High AI Trust — 17.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
