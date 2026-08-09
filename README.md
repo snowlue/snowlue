@@ -55,21 +55,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                253 commits         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.53 % 
-🌃 Evening                462 commits         █████████░░░░░░░░░░░░░░░░   34.82 % 
-🌙 Night                  260 commits         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+🌞 Morning                253 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+🌆 Daytime                352 commits         ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+🌃 Evening                463 commits         █████████░░░░░░░░░░░░░░░░   34.86 % 
+🌙 Night                  260 commits         █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Thursday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Saturday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Sunday                   209 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Tuesday                  204 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Wednesday                194 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Friday                   147 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Saturday                 172 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Sunday                   210 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 ```
 
 
@@ -82,31 +82,6 @@ Markdown                 52 mins             ██░░░░░░░░░�
 Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 TOML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 9 hrs 32 mins (68.34%)
-
-✍️ 4,876 lines written by AI, 461 lines written by hand (91.36% AI-written)
-
-🔤 67,012,887 Input Tokens, 597,677 Output Tokens
-
-💵 $146.70 Estimated AI Cost This Week
-
-🧠 9 AI Sessions, 114 AI Prompts
-
-Sonnet                   4,325 lines         ██████████████████░░░░░░░   71.11 % 
-Haiku                    1,366 lines         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-GPT                      391 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 91.36% of written lines came from AI
-📚 Verbose Prompter — average 9,139 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 17.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
