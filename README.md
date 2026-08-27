@@ -48,9 +48,9 @@
 
 ## 👨🏻‍💻 About my coding:
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C409%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -77,11 +77,11 @@ Sunday                   210 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 31 mins       ██████████████████░░░░░░░   71.99 % 
-Python                   36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-TOML                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Python                   2 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.53 % 
+Markdown                 2 hrs 29 mins       ██████████░░░░░░░░░░░░░░░   39.78 % 
+TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 ```
 
 **I Mostly Code in Python** 
