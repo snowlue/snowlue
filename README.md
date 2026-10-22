@@ -77,11 +77,9 @@ Sunday                   210 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 49 mins        ██████████████████░░░░░░░   70.62 % 
-Other                    37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Shell                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   1 hr 44 mins        ████████████████████████░   97.32 % 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Shell                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 ```
 
 **I Mostly Code in Python** 
